@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Jose L. Salmeron
+## Professor of Data Science
 
 You can use the [editor on GitHub](https://github.com/joselsalmeron/newsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
